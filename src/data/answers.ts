@@ -1,1 +1,1 @@
-export const answers = ["a", "c", "a", "c", "a", "a", "b", "c", "a", "a"];
+export const answers = [[true, false, false, false], [false, false, true, false], [true, false, false, false], [false, false, true, false], [true, false, false, false], [true, false, false, false], [false, true, false, false], [false, false, true, false], [true, false, false, false], [true, false, false, false]];
